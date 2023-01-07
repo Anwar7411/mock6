@@ -1,0 +1,39 @@
+{
+    "user": [
+      {
+        "email": "anwar@gmail.com",
+        "name": "anwar",
+        "password": "anwar",
+        "id": 1
+      },
+      {
+        "email": "basha@gmail.com",
+        "name": "basha",
+        "password": "basha",
+        "id": 2
+      },
+      {
+        "email": "arif@gmail.com",
+        "name": "arif",
+        "password": "arif",
+        "id": 3
+      }
+    ],
+    "task": [
+      {
+        "title": "Mock5",
+        "userid": 1,
+        "id": 1
+      },
+      {
+        "title": "DSA2",
+        "userid": 1,
+        "id": 2
+      },
+      {
+        "title": "DSA3",
+        "userid": 1,
+        "id": 3
+      }
+    ]
+  }
